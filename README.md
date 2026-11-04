@@ -88,12 +88,4 @@ sql/04_validacao.sql                Parte 4
 
 ⚠️ Não edite o repositório do professor, só o seu fork.
 
-## Critérios de avaliação
 
-| Item | O que é avaliado | Pontos |
-| --- | --- | --- |
-| Etapa 1 | DDL corrigido (PostgreSQL e MySQL), importação completa e documentada | 3,0 |
-| Etapa 2 | Consultas corretas e trigger funcionando | 3,0 |
-| Etapa 3 | Roteiro de validação e erros encontrados nos dados, com consultas | 3,0 |
-| GitHub | Estrutura pedida, README preenchido e commits ao longo do trabalho | 1,0 |
-| **Total** |  | **10,0** |
