@@ -6,15 +6,15 @@
 
 ## Equipe
 
-**Nome do time:** ____________________
+**Nome do time:** ___Equipe Tatu Bola _________________
 
 | Nome | Matrícula | Usuário do GitHub |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|  Luiz |  | Otávio |
+|  Victor |  |  Botelho|
+| Ludmila  |  | Reinaldo |
+| Pedro |  | Jefferson |
+| Fabrício |  |Araújo  |
 
 ## O cenário
 
