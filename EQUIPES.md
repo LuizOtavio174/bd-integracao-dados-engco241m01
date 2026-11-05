@@ -1,8 +1,10 @@
 # Equipes
 
-Lista das equipes, montada a partir dos forks. Cada equipe preenche o nome do time e os integrantes no README **do próprio fork**.
+Lista das equipes, montada a partir dos forks (atualizada em 05/11/2026, 10h50). Cada equipe preenche o nome do time e os integrantes no README **do próprio fork**.
 
 | Time | Integrantes (usuário do GitHub) | Fork |
 | --- | --- | --- |
-| a preencher | abnerlime (dono do fork) | [abnerlime/bd-integracao-dados-engco241m01](https://github.com/abnerlime/bd-integracao-dados-engco241m01) |
+| CTRL + ALT + DEL | Abner Lima Menezes (abnerlime), João Marcelo Barbosa de Freitas (sem usuário), Rodrigo Fradera (rfradera29) | [abnerlime/bd-integracao-dados-engco241m01](https://github.com/abnerlime/bd-integracao-dados-engco241m01) |
 | Quarteto Fantástico | Guilherme Victor (Guilherme-Eng3011), Divino Filho, Lucas de Lucena, Leo Aranha | [Guilherme-Eng3011/Quarteto-Fant-stico](https://github.com/Guilherme-Eng3011/Quarteto-Fant-stico) |
+| As divas e a Cacau | Emanuele, Mikaellen, Raab (guimaraesraab2003-create), Sabrina, Victor Ryan | [guimaraesraab2003-create/As-divas-e-a-cacau](https://github.com/guimaraesraab2003-create/As-divas-e-a-cacau) |
+| Caos & Código | Beatriz, Dalton Cauã (daltoncaua11-png), Eduardo Lima, Thaila Brasil, Raniele | [daltoncaua11-png/bd-integracao-dados-engco241m01](https://github.com/daltoncaua11-png/bd-integracao-dados-engco241m01) |
