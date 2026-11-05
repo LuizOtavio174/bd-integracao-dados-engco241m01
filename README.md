@@ -2,7 +2,7 @@
 
 **Disciplina:** Banco de Dados (ENGCO241M01)  
 **Trabalho:** individual  
-**Prazo:** dd/mm/aaaa
+**Prazo:** 19/11/2026
 
 ## Aluno
 
