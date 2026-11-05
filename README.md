@@ -1,7 +1,7 @@
 # Integração de Dados: implantação, consultas e validação
 
 **Disciplina:** Banco de Dados (ENGCO241M01)  
-**Trabalho:** individual  
+**Trabalho:** 3 pessoas  
 **Prazo:** 19/11/2026
 
 ## Aluno
